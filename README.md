@@ -9,4 +9,4 @@
 💡 Passionate about software craftsmanship, clean code, and building intuitive user experiences.
 
 🚀 Looking forward to collaborating on exciting projects and contributing to open-source communities.
-![Background Image](https://images3.alphacoders.com/133/1338701.png)
+
