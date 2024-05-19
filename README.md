@@ -3,9 +3,9 @@
 - Hi 👋, I'm vasanthabalan
 - 👀 I’m a full stack developer who is passionate about building applications.
 - 🔭 Currently working on building scalable web applications with .NET Core and Angular.
+- Full-Stack Developer | .NET Enthusiast | Code Craftsman
 
-### Full-Stack Developer | .NET Enthusiast | Code Craftsman
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ###  Techs & Tools
 ![Angular](https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white)
@@ -22,6 +22,7 @@
 ![dotnet](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Social Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasanthabalan-m)
